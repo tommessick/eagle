@@ -1,2 +1,2 @@
 # eagle
-Read data from Rainforest Eagle and with stats on power and temperature
+Read data from Rainforest Eagle and produce web page with stats on power and temperature
